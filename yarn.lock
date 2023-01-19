@@ -820,9 +820,9 @@
   dependencies:
     "@types/yargs-parser" "*"
 
-"@vitejs/plugin-react@^3.0.0":
+"@vitejs/plugin-react@^3.0.1":
   version "3.0.1"
-  resolved "https://registry.npmjs.org/@vitejs/plugin-react/-/plugin-react-3.0.1.tgz#ad21fb81377970dd4021a31cd95a03eb6f5c4c48"
+  resolved "https://registry.yarnpkg.com/@vitejs/plugin-react/-/plugin-react-3.0.1.tgz#ad21fb81377970dd4021a31cd95a03eb6f5c4c48"
   integrity sha512-mx+QvYwIbbpOIJw+hypjnW1lAbKDHtWK5ibkF/V1/oMBu8HU/chb+SnqJDAsLq1+7rGqjktCEomMTM5KShzUKQ==
   dependencies:
     "@babel/core" "^7.20.7"
